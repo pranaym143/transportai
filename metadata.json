@@ -1,0 +1,8 @@
+{
+  "name": "TRANSPORT AI – The Future of Intelligent Mobility",
+  "description": "Discover how AI transforms transportation: autonomous vehicles, smart traffic management, aviation, logistics, public transport, safety, and future mobility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
